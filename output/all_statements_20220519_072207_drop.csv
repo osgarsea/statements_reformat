@@ -1,0 +1,17 @@
+﻿account,category,sub_cat,description,date,currency,expenses,income
+lloyds,,,club lloyds fee,2022-03-02,GBP,3.0,
+lloyds,,,club lloyds waived,2022-03-02,GBP,,3.0
+lloyds,,,garcia cos o,2022-02-28,GBP,,1510.0
+lloyds,,,garcia cos o,2022-03-28,GBP,,1510.0
+lloyds,,,garcia costa o,2022-03-18,GBP,1500.0,
+firstdirect,,,mariacarmen rodrigfrom rbs,2022-02-28,GBP,1510.0,
+firstdirect,,,mariacarmen rodrigfrom rbs,2022-03-28,GBP,1510.0,
+firstdirect,,,oscar garcia costafrom rbs,2022-02-28,GBP,500.0,
+firstdirect,,,oscar garcia costafrom rbs,2022-03-28,GBP,500.0,
+ing,,,pago en a t b servizi s.p.a. bergamo it,2022-03-09,EUR,7.0,
+ing,,,pago en a t b servizi s.p.a. bergamo it,2022-03-09,EUR,7.0,
+ing,,,pago en alhambra cyberpac granada es,2022-03-15,EUR,29.7,
+ing,,,pago en pam bergamo it,2022-03-08,EUR,14.8,
+amazon,,,payment received - thank you,2022-03-03,GBP,,78.84
+amex,,,payment received - thank you,2022-03-19,GBP,,478.11
+ing,,,transferencia recibida de oscar garcia costa amazon,2022-03-16,EUR,,36.0
